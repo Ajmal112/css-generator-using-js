@@ -4,7 +4,7 @@ The CSS Generator is a web application that allows you to generate live CSS styl
 
 ## Live Demo
 
-You can try out the CSS Generator live by visiting the [demo page](https://your-demo-page-url.com).
+You can try out the CSS Generator live by visiting the [demo page](https://ajmal112.github.io/css-generator-using-js/).
 
 ## How It Works
 
