@@ -31,7 +31,7 @@ The CSS Generator is built using the following technologies:
 
 To use the CSS Generator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/css-generator.git`
+1. Clone the repository: `git clone https://github.com/Ajmal112/css-generator-using-js.git`
 2. Open `index.html` in your web browser.
 3. Customize the CSS properties using the provided controls and see the changes applied to the image in real-time.
 
